@@ -1,0 +1,16 @@
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\bin\Debug\net5.0\Zadacha.exe
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\bin\Debug\net5.0\Zadacha.deps.json
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\bin\Debug\net5.0\Zadacha.runtimeconfig.json
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\bin\Debug\net5.0\Zadacha.runtimeconfig.dev.json
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\bin\Debug\net5.0\Zadacha.dll
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\bin\Debug\net5.0\ref\Zadacha.dll
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\bin\Debug\net5.0\Zadacha.pdb
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\obj\Debug\net5.0\Zadacha.csproj.AssemblyReference.cache
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\obj\Debug\net5.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\obj\Debug\net5.0\Zadacha.AssemblyInfoInputs.cache
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\obj\Debug\net5.0\Zadacha.AssemblyInfo.cs
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\obj\Debug\net5.0\Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\obj\Debug\net5.0\Zadacha.dll
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\obj\Debug\net5.0\ref\Zadacha.dll
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\obj\Debug\net5.0\Zadacha.pdb
+C:\Users\koval\RiderProjects\Zadacha\Zadacha\obj\Debug\net5.0\Zadacha.genruntimeconfig.cache
